@@ -1,1 +1,8 @@
-Hi, welcome to my site. My name is grayrainbows. Go follow me on my Scratch account at scratch.mit.edu/ysers/grayrainbows
+---
+layout: post
+title: Welcome!
+date: 2016-05-15 9:16:10 -0400
+categories: welcome
+---
+Hi, welcome to my site. My name is grayrainbows. Go follow me on my [Scratch account][scratch-account]
+[scratch-account]: http://scratch.mit.edu/users/grayrainbows
